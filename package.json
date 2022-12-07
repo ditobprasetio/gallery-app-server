@@ -1,0 +1,24 @@
+{
+  "name": "gallery-app-server",
+  "version": "1.0.0",
+  "description": "JSON server for assignments and the final SI KM Ruangguru project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditobprasetio/gallery-app-server.git"
+  },
+  "author": "Dito B Prasetio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ditobprasetio/gallery-app-server/issues"
+  },
+  "homepage": "https://github.com/ditobprasetio/gallery-app-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1"
+  }
+}
